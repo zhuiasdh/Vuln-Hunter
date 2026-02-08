@@ -1,7 +1,7 @@
 # 🕸️ VulnHunter - Network Vulnerability Scanner
 
 ## 🚀 Overview
-VulnHunter is a lightweight vulnerability scanner that bridges the gap between basic port scanning and vulnerability assessment. It uses **Nmap** for service discovery and the **Vulners API** to map discovered services to known CVEs in real-time.
+"VulnHunter is a Python-based reconnaissance tool that goes beyond simple port scanning. It scans target networks for open ports, identifies running services (Banner Grabbing), and cross-references version numbers against the Vulners database to identify real-time Common Vulnerabilities and Exposures (CVEs). All results are aggregated into a user-friendly Web Interface for easy analysis."
 
 ## 🛠️ Features
 - **Port Scanning:** Identifies open ports and running services.
@@ -13,4 +13,4 @@ VulnHunter is a lightweight vulnerability scanner that bridges the gap between b
 ## 📦 Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/zhuiasdh/vulnhunter.git](https://github.com/zhuiasdh/vulnhunter.git)
+   git clone [https://github.com/zhuiasdh/Vuln-Hunter.git](https://github.com/zhuiasdh/Vuln-Hunter.git)
