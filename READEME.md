@@ -14,3 +14,11 @@
 1. Clone the repo:
    ```bash
    git clone [https://github.com/zhuiasdh/Vuln-Hunter.git](https://github.com/zhuiasdh/Vuln-Hunter.git)
+
+## 📸 Project Demo
+
+### 1. The Dashboard Interface
+![Main Dashboard](images/main.png)
+
+### 2. Critical Vulnerability Report
+![Scan Results](images/result.png)

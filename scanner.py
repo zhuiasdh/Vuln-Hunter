@@ -10,7 +10,7 @@ load_dotenv()
 # 2. Get the key safely
 VULNERS_API_KEY = os.getenv('VULNERS_API_KEY')
 
-# Check if it loaded correctly (Good for debugging)
+# Check if it loaded correctly 
 if not VULNERS_API_KEY:
     raise ValueError("Error: API Key not found. Make sure .env file exists.")
 
